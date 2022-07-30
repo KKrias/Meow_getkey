@@ -18,3 +18,5 @@
 ![img_7.png](img_7.png)
 ## 实验结果
 ![img_8.png](img_8.png)
+## 参考资料
+https://peter.website/meow-hash-cryptanalysis
